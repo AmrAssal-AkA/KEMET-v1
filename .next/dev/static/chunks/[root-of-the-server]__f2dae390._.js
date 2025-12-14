@@ -483,11 +483,11 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$fortawesom
 ;
 function Footer() {
     const $ = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$compiler$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["c"])(19);
-    if ($[0] !== "fd6d10bfba6786e0eebcd143b57e2b94c69020b3a1a75cfb4ec31580fc0878f9") {
+    if ($[0] !== "f33666ee1b9cf93c49c4a512d060e3187f0dac73918da83ad30b0c53e377ea92") {
         for(let $i = 0; $i < 19; $i += 1){
             $[$i] = Symbol.for("react.memo_cache_sentinel");
         }
-        $[0] = "fd6d10bfba6786e0eebcd143b57e2b94c69020b3a1a75cfb4ec31580fc0878f9";
+        $[0] = "f33666ee1b9cf93c49c4a512d060e3187f0dac73918da83ad30b0c53e377ea92";
     }
     let t0;
     if ($[1] === Symbol.for("react.memo_cache_sentinel")) {
@@ -731,12 +731,8 @@ function Footer() {
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                 href: "#",
                                 className: "hover:text-blue-500",
-                                children: [
-                                    " ",
-                                    "About Us",
-                                    " "
-                                ]
-                            }, void 0, true, {
+                                children: "About Us"
+                            }, void 0, false, {
                                 fileName: "[project]/components/Footer.jsx",
                                 lineNumber: 76,
                                 columnNumber: 119
@@ -754,12 +750,12 @@ function Footer() {
                             }, void 0, false, {
                                 fileName: "[project]/components/Footer.jsx",
                                 lineNumber: 76,
-                                columnNumber: 194
+                                columnNumber: 184
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/components/Footer.jsx",
                             lineNumber: 76,
-                            columnNumber: 190
+                            columnNumber: 180
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -769,12 +765,12 @@ function Footer() {
                             }, void 0, false, {
                                 fileName: "[project]/components/Footer.jsx",
                                 lineNumber: 76,
-                                columnNumber: 258
+                                columnNumber: 248
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/components/Footer.jsx",
                             lineNumber: 76,
-                            columnNumber: 254
+                            columnNumber: 244
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -784,12 +780,12 @@ function Footer() {
                             }, void 0, false, {
                                 fileName: "[project]/components/Footer.jsx",
                                 lineNumber: 76,
-                                columnNumber: 325
+                                columnNumber: 315
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/components/Footer.jsx",
                             lineNumber: 76,
-                            columnNumber: 321
+                            columnNumber: 311
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -799,12 +795,12 @@ function Footer() {
                             }, void 0, false, {
                                 fileName: "[project]/components/Footer.jsx",
                                 lineNumber: 76,
-                                columnNumber: 395
+                                columnNumber: 385
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/components/Footer.jsx",
                             lineNumber: 76,
-                            columnNumber: 391
+                            columnNumber: 381
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -814,12 +810,12 @@ function Footer() {
                             }, void 0, false, {
                                 fileName: "[project]/components/Footer.jsx",
                                 lineNumber: 76,
-                                columnNumber: 463
+                                columnNumber: 453
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/components/Footer.jsx",
                             lineNumber: 76,
-                            columnNumber: 459
+                            columnNumber: 449
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
@@ -829,12 +825,12 @@ function Footer() {
                             }, void 0, false, {
                                 fileName: "[project]/components/Footer.jsx",
                                 lineNumber: 76,
-                                columnNumber: 534
+                                columnNumber: 524
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/components/Footer.jsx",
                             lineNumber: 76,
-                            columnNumber: 530
+                            columnNumber: 520
                         }, this)
                     ]
                 }, void 0, true, {
@@ -1667,6 +1663,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$com
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$image$2e$js__$5b$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/image.js [client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/link.js [client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$index$2e$js__$5b$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/react/index.js [client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$router$2e$js__$5b$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/router.js [client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$Button$2e$jsx__$5b$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/components/ui/Button.jsx [client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$icons$2f$Usericon$2e$jsx__$5b$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/components/ui/icons/Usericon.jsx [client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$icons$2f$menuIcon$2e$jsx__$5b$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/components/ui/icons/menuIcon.jsx [client] (ecmascript)");
@@ -1687,15 +1684,17 @@ var _s = __turbopack_context__.k.signature();
 ;
 ;
 ;
+;
 function Header() {
     _s();
-    const $ = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$compiler$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["c"])(30);
-    if ($[0] !== "48d0da0b7689d6469a38be4a84362ab30c0d9895f014ce4db7d4774247f07b1b") {
-        for(let $i = 0; $i < 30; $i += 1){
+    const $ = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$compiler$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["c"])(32);
+    if ($[0] !== "afcd5ed608c86ed39ff276e61be2b0e399f5e2e65497d5b45f09d38ca7c1572c") {
+        for(let $i = 0; $i < 32; $i += 1){
             $[$i] = Symbol.for("react.memo_cache_sentinel");
         }
-        $[0] = "48d0da0b7689d6469a38be4a84362ab30c0d9895f014ce4db7d4774247f07b1b";
+        $[0] = "afcd5ed608c86ed39ff276e61be2b0e399f5e2e65497d5b45f09d38ca7c1572c";
     }
+    const router = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$router$2e$js__$5b$client$5d$__$28$ecmascript$29$__["useRouter"])();
     const [open, setOpen] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$index$2e$js__$5b$client$5d$__$28$ecmascript$29$__["useState"])(false);
     const [isModalOpen, setModalOpen] = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$index$2e$js__$5b$client$5d$__$28$ecmascript$29$__["useState"])(false);
     let t0;
@@ -1715,7 +1714,7 @@ function Header() {
             },
             {
                 name: "Contact us",
-                path: "/Blog"
+                path: "/Contactus"
             }
         ];
         $[1] = t0;
@@ -1734,20 +1733,20 @@ function Header() {
                     children: "Call us: +20 104 456 6595"
                 }, void 0, false, {
                     fileName: "[project]/components/Header.jsx",
-                    lineNumber: 45,
+                    lineNumber: 47,
                     columnNumber: 51
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "border-l border-white h-6"
                 }, void 0, false, {
                     fileName: "[project]/components/Header.jsx",
-                    lineNumber: 45,
+                    lineNumber: 47,
                     columnNumber: 133
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/components/Header.jsx",
-            lineNumber: 45,
+            lineNumber: 47,
             columnNumber: 10
         }, this);
         t2 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("form", {
@@ -1758,7 +1757,7 @@ function Header() {
                     className: "ml-4 mt-1 p-1.5 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-amber-500 bg-white"
                 }, void 0, false, {
                     fileName: "[project]/components/Header.jsx",
-                    lineNumber: 46,
+                    lineNumber: 48,
                     columnNumber: 16
                 }, this),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -1766,13 +1765,13 @@ function Header() {
                     children: "Subscribe"
                 }, void 0, false, {
                     fileName: "[project]/components/Header.jsx",
-                    lineNumber: 46,
+                    lineNumber: 48,
                     columnNumber: 192
                 }, this)
             ]
         }, void 0, true, {
             fileName: "[project]/components/Header.jsx",
-            lineNumber: 46,
+            lineNumber: 48,
             columnNumber: 10
         }, this);
         $[2] = t1;
@@ -1792,12 +1791,12 @@ function Header() {
                 className: "text-blue-600 w-6 h-6"
             }, void 0, false, {
                 fileName: "[project]/components/Header.jsx",
-                lineNumber: 55,
+                lineNumber: 57,
                 columnNumber: 57
             }, this)
         }, void 0, false, {
             fileName: "[project]/components/Header.jsx",
-            lineNumber: 55,
+            lineNumber: 57,
             columnNumber: 10
         }, this);
         $[4] = t3;
@@ -1815,12 +1814,12 @@ function Header() {
                 className: "text-pink-600 w-6 h-6"
             }, void 0, false, {
                 fileName: "[project]/components/Header.jsx",
-                lineNumber: 62,
+                lineNumber: 64,
                 columnNumber: 58
             }, this)
         }, void 0, false, {
             fileName: "[project]/components/Header.jsx",
-            lineNumber: 62,
+            lineNumber: 64,
             columnNumber: 10
         }, this);
         $[5] = t4;
@@ -1852,34 +1851,34 @@ function Header() {
                                         className: "text-yellow-300 w-6 h-6"
                                     }, void 0, false, {
                                         fileName: "[project]/components/Header.jsx",
-                                        lineNumber: 69,
+                                        lineNumber: 71,
                                         columnNumber: 294
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/components/Header.jsx",
-                                    lineNumber: 69,
+                                    lineNumber: 71,
                                     columnNumber: 250
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/Header.jsx",
-                            lineNumber: 69,
+                            lineNumber: 71,
                             columnNumber: 158
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/Header.jsx",
-                    lineNumber: 69,
+                    lineNumber: 71,
                     columnNumber: 106
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/components/Header.jsx",
-                lineNumber: 69,
+                lineNumber: 71,
                 columnNumber: 62
             }, this)
         }, void 0, false, {
             fileName: "[project]/components/Header.jsx",
-            lineNumber: 69,
+            lineNumber: 71,
             columnNumber: 10
         }, this);
         $[6] = t5;
@@ -1898,17 +1897,17 @@ function Header() {
                     height: 50
                 }, void 0, false, {
                     fileName: "[project]/components/Header.jsx",
-                    lineNumber: 76,
+                    lineNumber: 78,
                     columnNumber: 30
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/components/Header.jsx",
-                lineNumber: 76,
+                lineNumber: 78,
                 columnNumber: 15
             }, this)
         }, void 0, false, {
             fileName: "[project]/components/Header.jsx",
-            lineNumber: 76,
+            lineNumber: 78,
             columnNumber: 10
         }, this);
         $[7] = t6;
@@ -1931,13 +1930,13 @@ function Header() {
             className: "w-10 h-10 m-5"
         }, void 0, false, {
             fileName: "[project]/components/Header.jsx",
-            lineNumber: 93,
+            lineNumber: 95,
             columnNumber: 17
         }, this) : /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$icons$2f$menuIcon$2e$jsx__$5b$client$5d$__$28$ecmascript$29$__["default"], {
             className: "w-10 h-10 m-5"
         }, void 0, false, {
             fileName: "[project]/components/Header.jsx",
-            lineNumber: 93,
+            lineNumber: 95,
             columnNumber: 59
         }, this);
         $[10] = open;
@@ -1953,7 +1952,7 @@ function Header() {
             children: t8
         }, void 0, false, {
             fileName: "[project]/components/Header.jsx",
-            lineNumber: 101,
+            lineNumber: 103,
             columnNumber: 10
         }, this);
         $[12] = t7;
@@ -1978,12 +1977,12 @@ function Header() {
                         children: link.name
                     }, void 0, false, {
                         fileName: "[project]/components/Header.jsx",
-                        lineNumber: 113,
+                        lineNumber: 115,
                         columnNumber: 118
                     }, this)
                 }, link.name, false, {
                     fileName: "[project]/components/Header.jsx",
-                    lineNumber: 113,
+                    lineNumber: 115,
                     columnNumber: 41
                 }, this)
         }["Header[navLinks.map()]"]);
@@ -1991,7 +1990,7 @@ function Header() {
             className: "hidden md:block md:border-l md:border-gray-300 md:ml-8 md:pl-8 md:h-6"
         }, void 0, false, {
             fileName: "[project]/components/Header.jsx",
-            lineNumber: 117,
+            lineNumber: 119,
             columnNumber: 11
         }, this);
         $[15] = t11;
@@ -2001,28 +2000,32 @@ function Header() {
         t12 = $[16];
     }
     let t13;
-    if ($[17] === Symbol.for("react.memo_cache_sentinel")) {
+    if ($[17] !== router) {
         t13 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
             className: "md:ml-8 text-xl md:mt-5 my-7 md:p-2 mt-10",
             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$ui$2f$Button$2e$jsx__$5b$client$5d$__$28$ecmascript$29$__["default"], {
                 className: "px-4 py-2",
+                onClick: {
+                    "Header[<Button>.onClick]": ()=>router.push("/Book")
+                }["Header[<Button>.onClick]"],
                 children: "Book Now"
             }, void 0, false, {
                 fileName: "[project]/components/Header.jsx",
-                lineNumber: 126,
+                lineNumber: 128,
                 columnNumber: 69
             }, this)
         }, void 0, false, {
             fileName: "[project]/components/Header.jsx",
-            lineNumber: 126,
+            lineNumber: 128,
             columnNumber: 11
         }, this);
-        $[17] = t13;
+        $[17] = router;
+        $[18] = t13;
     } else {
-        t13 = $[17];
+        t13 = $[18];
     }
     let t14;
-    if ($[18] === Symbol.for("react.memo_cache_sentinel")) {
+    if ($[19] === Symbol.for("react.memo_cache_sentinel")) {
         t14 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
             className: "md:ml-8 text-xl md:mt-5 my-7 md:p-2",
             children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -2033,25 +2036,25 @@ function Header() {
                     className: "w-8 h-8 cursor-pointer hover:fill-amber-500 transition-colors"
                 }, void 0, false, {
                     fileName: "[project]/components/Header.jsx",
-                    lineNumber: 135,
+                    lineNumber: 140,
                     columnNumber: 38
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/components/Header.jsx",
-                lineNumber: 133,
+                lineNumber: 138,
                 columnNumber: 63
             }, this)
         }, void 0, false, {
             fileName: "[project]/components/Header.jsx",
-            lineNumber: 133,
+            lineNumber: 138,
             columnNumber: 11
         }, this);
-        $[18] = t14;
+        $[19] = t14;
     } else {
-        t14 = $[18];
+        t14 = $[19];
     }
     let t15;
-    if ($[19] !== t10) {
+    if ($[20] !== t10 || $[21] !== t13) {
         t15 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
             className: t10,
             children: [
@@ -2062,16 +2065,17 @@ function Header() {
             ]
         }, void 0, true, {
             fileName: "[project]/components/Header.jsx",
-            lineNumber: 142,
+            lineNumber: 147,
             columnNumber: 11
         }, this);
-        $[19] = t10;
-        $[20] = t15;
+        $[20] = t10;
+        $[21] = t13;
+        $[22] = t15;
     } else {
-        t15 = $[20];
+        t15 = $[22];
     }
     let t16;
-    if ($[21] !== t15 || $[22] !== t9) {
+    if ($[23] !== t15 || $[24] !== t9) {
         t16 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
             className: "container mx-auto flex items-center justify-between  px-4 sm:px-6 lg:px-8",
             children: [
@@ -2081,41 +2085,41 @@ function Header() {
             ]
         }, void 0, true, {
             fileName: "[project]/components/Header.jsx",
-            lineNumber: 150,
+            lineNumber: 156,
             columnNumber: 11
         }, this);
-        $[21] = t15;
-        $[22] = t9;
-        $[23] = t16;
+        $[23] = t15;
+        $[24] = t9;
+        $[25] = t16;
     } else {
-        t16 = $[23];
+        t16 = $[25];
     }
     let t17;
-    if ($[24] === Symbol.for("react.memo_cache_sentinel")) {
+    if ($[26] === Symbol.for("react.memo_cache_sentinel")) {
         t17 = ({
             "Header[<Model>.onClose]": ()=>setModalOpen(false)
         })["Header[<Model>.onClose]"];
-        $[24] = t17;
+        $[26] = t17;
     } else {
-        t17 = $[24];
+        t17 = $[26];
     }
     let t18;
-    if ($[25] !== isModalOpen) {
+    if ($[27] !== isModalOpen) {
         t18 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$Model$2e$jsx__$5b$client$5d$__$28$ecmascript$29$__["default"], {
             isOpen: isModalOpen,
             onClose: t17
         }, void 0, false, {
             fileName: "[project]/components/Header.jsx",
-            lineNumber: 168,
+            lineNumber: 174,
             columnNumber: 11
         }, this);
-        $[25] = isModalOpen;
-        $[26] = t18;
+        $[27] = isModalOpen;
+        $[28] = t18;
     } else {
-        t18 = $[26];
+        t18 = $[28];
     }
     let t19;
-    if ($[27] !== t16 || $[28] !== t18) {
+    if ($[29] !== t16 || $[30] !== t18) {
         t19 = /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("nav", {
             className: "fixed top-0 left-0 w-full bg-white shadow-lg z-50",
             children: [
@@ -2125,18 +2129,22 @@ function Header() {
             ]
         }, void 0, true, {
             fileName: "[project]/components/Header.jsx",
-            lineNumber: 176,
+            lineNumber: 182,
             columnNumber: 11
         }, this);
-        $[27] = t16;
-        $[28] = t18;
-        $[29] = t19;
+        $[29] = t16;
+        $[30] = t18;
+        $[31] = t19;
     } else {
-        t19 = $[29];
+        t19 = $[31];
     }
     return t19;
 }
-_s(Header, "x15PhWBtzdBa5OMTs9EU0KWR98M=");
+_s(Header, "IK2iBGdc0gEOnPJ/1v3NmDkbpeY=", false, function() {
+    return [
+        __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$router$2e$js__$5b$client$5d$__$28$ecmascript$29$__["useRouter"]
+    ];
+});
 _c = Header;
 var _c;
 __turbopack_context__.k.register(_c, "Header");

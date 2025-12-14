@@ -5,8 +5,20 @@ self.__BUILD_MANIFEST = {
   "/Blog": [
     "static/chunks/pages/Blog.js"
   ],
+  "/Book": [
+    "static/chunks/pages/Book.js"
+  ],
+  "/Contactus": [
+    "static/chunks/pages/Contactus.js"
+  ],
   "/Discover": [
     "static/chunks/pages/Discover.js"
+  ],
+  "/Register": [
+    "static/chunks/pages/Register.js"
+  ],
+  "/_error": [
+    "static/chunks/pages/_error.js"
   ],
   "/login": [
     "static/chunks/pages/login.js"
@@ -20,6 +32,8 @@ self.__BUILD_MANIFEST = {
     "/",
     "/404",
     "/Blog",
+    "/Book",
+    "/Contactus",
     "/Discover",
     "/Discover/[Id]",
     "/Register",

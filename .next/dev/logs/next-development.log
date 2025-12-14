@@ -1,23 +1,337 @@
-[00:00:01.759] Server  LOG      ✓ Ready in 1540ms
-[00:00:17.434] Browser WARN    Image with src "/trips/giza-pyramids.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:00:17.434] Browser WARN    Image with src "/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
-[00:00:17.434] Browser WARN    Image with src "/trips/nile-cruise.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:00:17.434] Browser WARN    Image with src "/trips/sharm-el-sheikh.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:00:17.434] Browser WARN    Image with src "/section3(2).jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:00:17.566] Browser WARN    Image with src "/section3.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:00:24.227] Server  ERROR   Each child in a list should have a unique "key" prop.
-
-Check the render method of `BlogPage`. See https://react.dev/link/warning-keys for more information.
-[00:00:24.450] Browser ERROR   Each child in a list should have a unique "key" prop.%s%s See https://react.dev/link/warning-keys for more information. 
+[00:00:01.576] Server  LOG      ✓ Ready in 1384ms
+[00:00:14.641] Browser WARN    Image with src "/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:00:14.641] Browser WARN    Image with src "/section3.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:14.641] Browser WARN    Image with src "/section3(2).jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:14.641] Browser WARN    Image with src "/trips/giza-pyramids.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:14.641] Browser WARN    Image with src "/trips/karnak-temple.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:14.641] Browser WARN    Image with src "/trips/sharm-el-sheikh.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:19.134] Browser WARN    Image with src "/trips/nile-cruise.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:19.134] Browser WARN    Image with src "/trips/siwa-oasis.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:19.135] Browser WARN    Image with src "/trips/Dahab-city-trip.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:19.135] Browser WARN    Image with src "/trips/Alexandria-city.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:19.135] Browser WARN    Image with src "/trips/Abu-Simbel.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:19.135] Browser WARN    Image with src "/trips/Luxor-temple.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:20.967] Browser ERROR   uncaughtError: ReferenceError: handleDestinationClick is not defined
+[00:00:28.662] Browser ERROR   Each child in a list should have a unique "key" prop.%s%s See https://react.dev/link/warning-keys for more information. 
 
 Check the render method of `BlogPage`. 
-[00:00:24.450] Browser WARN    Image with src "/blogs/beaches.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:00:24.450] Browser WARN    Image with src "/blogs/best-time.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:00:24.450] Browser WARN    Image with src "/blogs/tips.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:00:24.450] Browser WARN    Image with src "/blogs/cuisine.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:00:24.450] Browser WARN    Image with src "/blogs/historical-sites.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:00:24.450] Browser WARN    Image with src "/blogs/etiquette.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:00:25.828] Server  ERROR   Each child in a list should have a unique "key" prop.
+[00:00:28.662] Browser WARN    Image with src "/blogs/best-time.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:28.662] Browser WARN    Image with src "/blogs/cuisine.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:28.662] Browser WARN    Image with src "/blogs/beaches.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:28.662] Browser WARN    Image with src "/blogs/tips.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:28.662] Browser WARN    Image with src "/blogs/etiquette.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:28.662] Browser WARN    Image with src "/blogs/historical-sites.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:35.865] Browser WARN    Image with src "/BrandBanner.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:49.523] Browser WARN    Image with src "/BlogPageBanner.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:01:36.197] Server  LOG      ✓ Compiled in 118ms
+[00:01:42.971] Server  LOG      ✓ Compiled in 111ms
+[00:01:46.287] Server  LOG      ✓ Compiled in 63ms
+[00:01:57.598] Server  LOG      ✓ Compiled in 96ms
+[00:02:00.255] Server  LOG      ✓ Compiled in 103ms
+[00:02:03.310] Server  LOG      ✓ Compiled in 86ms
+[00:02:06.888] Server  LOG      ✓ Compiled in 72ms
+[00:02:09.411] Server  LOG      ✓ Compiled in 74ms
+[00:02:12.764] Server  LOG      ✓ Compiled in 44ms
+[00:02:15.978] Server  LOG      ✓ Compiled in 68ms
+[00:02:18.489] Server  LOG      ✓ Compiled in 86ms
+[00:02:21.842] Browser ERROR   Image is missing required "alt" property. Please add Alternative Text to describe the image for screen readers and search engines.
+[00:02:21.842] Browser ERROR   Image is missing required "alt" property. Please add Alternative Text to describe the image for screen readers and search engines.
+[00:02:21.842] Browser ERROR   Image is missing required "alt" property. Please add Alternative Text to describe the image for screen readers and search engines.
+[00:02:21.842] Browser ERROR   Image is missing required "alt" property. Please add Alternative Text to describe the image for screen readers and search engines.
+[00:02:21.842] Browser ERROR   Image is missing required "alt" property. Please add Alternative Text to describe the image for screen readers and search engines.
+[00:02:21.842] Browser ERROR   Image is missing required "alt" property. Please add Alternative Text to describe the image for screen readers and search engines.
+[00:02:37.783] Server  LOG      ✓ Compiled in 67ms
+[00:02:37.887] Browser LOG     Refreshing page data due to server-side change
+[00:02:37.887] Browser ERROR   ./pages/index.js:181:53
+Parsing ecmascript source code failed
+  179 |               >
+  180 |                 <div className="relative h-64 w-full">
+> 181 |                   <Image src={tour.image} alt={tour.} fill className="object-center" />
+      |                                                     ^
+  182 |                 </div>
+  183 |
+  184 |                 <div className=" relative p-4">
 
-Check the render method of `BlogPage`. See https://react.dev/link/warning-keys for more information.
-[00:00:30.262] Browser WARN    Image with src "/BrandBanner.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+Expected '</', got '}'
+[00:02:39.825] Server  LOG      ✓ Compiled in 131ms
+[00:02:39.897] Browser LOG     Refreshing page data due to server-side change
+[00:02:42.303] Server  LOG      ✓ Compiled in 144ms
+[00:02:47.113] Server  LOG      ✓ Compiled in 53ms
+[00:03:42.963] Browser LOG     Refreshing page data due to server-side change
+[00:03:43.002] Server  LOG      ✓ Compiled in 170ms
+[00:03:43.093] Browser ERROR   %o
+
+%s
+
+%s
+ {} The above error occurred in the <Home> component. React will try to recreate this component tree from scratch using the error boundary you provided, PagesDevOverlayErrorBoundary.
+[00:03:45.605] Server  LOG      ✓ Compiled in 136ms
+[00:03:45.671] Browser ERROR   %o
+
+%s
+
+%s
+ {} The above error occurred in the <Home> component. React will try to recreate this component tree from scratch using the error boundary you provided, PagesDevOverlayErrorBoundary.
+[00:03:56.366] Server  LOG      ✓ Compiled in 20ms
+[00:03:56.469] Browser LOG     Refreshing page data due to server-side change
+[00:03:56.470] Browser ERROR   ./pages/index.js:3:33
+Parsing ecmascript source code failed
+  1 | import { useRouter } from "next/router"; 
+  2 | import Image from "next/image";
+> 3 | import { MapPin, User, Compass, , Star } from "lucide-react";
+    |                                 ^
+  4 |
+  5 | import Button from "../components/ui/Button"; 
+  6 | import {  getTours } from "@/data/data";
+
+Unexpected token `,`. Expected identifier or string
+[00:03:58.651] Server  LOG      ✓ Compiled in 670ms
+[00:03:58.741] Browser LOG     Refreshing page data due to server-side change
+[00:03:58.741] Browser ERROR   %o
+
+%s
+
+%s
+ {} The above error occurred in the <Home> component. React will try to recreate this component tree from scratch using the error boundary you provided, PagesDevOverlayErrorBoundary.
+[00:04:00.481] Server  LOG      ✓ Compiled in 117ms
+[00:04:00.547] Browser ERROR   %o
+
+%s
+
+%s
+ {} The above error occurred in the <Home> component. React will try to recreate this component tree from scratch using the error boundary you provided, PagesDevOverlayErrorBoundary.
+[00:04:05.167] Server  LOG      ✓ Compiled in 92ms
+[00:04:05.234] Browser LOG     Refreshing page data due to server-side change
+[00:04:05.234] Browser ERROR   %o
+
+%s
+
+%s
+ {} The above error occurred in the <Home> component. React will try to recreate this component tree from scratch using the error boundary you provided, PagesDevOverlayErrorBoundary.
+[00:04:14.047] Server  LOG      ✓ Compiled in 115ms
+[00:04:19.254] Server  LOG      ✓ Compiled in 115ms
+[00:04:27.232] Server  LOG      ✓ Compiled in 40ms
+[00:04:27.335] Browser LOG     Refreshing page data due to server-side change
+[00:04:27.335] Browser ERROR   ./pages/index.js:187:27
+Parsing ecmascript source code failed
+  185 |                   <h4 className="text-2xl font-bold mb-2">{tour.title}</h4>
+  186 |                   <p className="text-gray-600 flex items-center mt-1">
+> 187 |                     {tour.}
+      |                           ^
+  188 |                     </p>
+  189 |                     <div className="absolute top-2 right-2 flex items-center">
+  190 |                     <Star className="mr-1 fill-yellow-500 border-yellow-500" />
+
+Expected '</', got '}'
+[00:04:30.412] Server  LOG      ✓ Compiled in 91ms
+[00:04:30.483] Browser LOG     Refreshing page data due to server-side change
+[00:04:32.310] Server  LOG      ✓ Compiled in 92ms
+[00:04:33.769] Server  LOG      ✓ Compiled in 57ms
+[00:04:39.172] Server  LOG      ✓ Compiled in 96ms
+[00:04:40.423] Server  LOG      ✓ Compiled in 97ms
+[00:05:02.575] Server  LOG      ✓ Compiled in 110ms
+[00:05:06.447] Server  LOG      ✓ Compiled in 55ms
+[00:05:09.757] Server  ERROR   Each child in a list should have a unique "key" prop.
+
+Check the render method of `Home`. See https://react.dev/link/warning-keys for more information.
+[00:05:10.056] Browser ERROR   Each child in a list should have a unique "key" prop.%s%s See https://react.dev/link/warning-keys for more information. 
+
+Check the render method of `Home`. 
+[00:05:10.056] Browser WARN    Image with src "/trips/sharm-el-sheikh.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:05:10.056] Browser WARN    Image with src "/section3.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:05:10.056] Browser WARN    Image with src "/section3(2).jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:05:10.056] Browser WARN    Image with src "/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:05:10.056] Browser WARN    Image with src "/trips/giza-pyramids.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:05:10.056] Browser WARN    Image with src "/trips/nile-cruise.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:05:22.586] Server  LOG      ✓ Compiled in 128ms
+[00:05:28.513] Server  LOG      ✓ Compiled in 74ms
+[00:05:38.064] Browser LOG     Refreshing page data due to server-side change
+[00:05:38.131] Server  LOG      ✓ Compiled in 180ms
+[00:05:50.300] Server  LOG      ✓ Compiled in 167ms
+[00:05:52.244] Server  LOG      ✓ Compiled in 85ms
+[00:06:04.720] Server  LOG      ✓ Compiled in 88ms
+[00:06:11.059] Server  LOG      ✓ Compiled in 103ms
+[00:07:13.570] Server  LOG      ✓ Compiled in 232ms
+[00:07:13.657] Browser ERROR   %o
+
+%s
+
+%s
+ {} The above error occurred in the <Home> component. React will try to recreate this component tree from scratch using the error boundary you provided, PagesDevOverlayErrorBoundary.
+[00:07:25.099] Server  LOG      ✓ Compiled in 110ms
+[00:07:25.156] Browser ERROR   %o
+
+%s
+
+%s
+ {} The above error occurred in the <Home> component. React will try to recreate this component tree from scratch using the error boundary you provided, PagesDevOverlayErrorBoundary.
+[00:07:26.237] Server  LOG      ✓ Compiled in 123ms
+[00:07:26.324] Browser ERROR   %o
+
+%s
+
+%s
+ {} The above error occurred in the <Home> component. React will try to recreate this component tree from scratch using the error boundary you provided, PagesDevOverlayErrorBoundary.
+[00:07:29.287] Server  LOG      ✓ Compiled in 95ms
+[00:07:29.353] Browser ERROR   %o
+
+%s
+
+%s
+ {} The above error occurred in the <Home> component. React will try to recreate this component tree from scratch using the error boundary you provided, PagesDevOverlayErrorBoundary.
+[00:07:33.678] Server  LOG      ✓ Compiled in 132ms
+[00:07:33.768] Browser ERROR   %o
+
+%s
+
+%s
+ {} The above error occurred in the <Home> component. React will try to recreate this component tree from scratch using the error boundary you provided, PagesDevOverlayErrorBoundary.
+[00:07:39.940] Server  ERROR   ReferenceError: tours is not defined
+[00:07:39.942] Server  ERROR    ⨯ ReferenceError: tours is not defined
+[00:07:39.945] Server  ERROR    ⨯ ReferenceError: tours is not defined
+[00:07:40.199] Browser ERROR   uncaughtError: ReferenceError: tours is not defined
+[00:07:52.429] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:07:52.510] Server  ERROR   ReferenceError: Clock is not defined
+[00:07:52.511] Server  ERROR    ⨯ ReferenceError: Clock is not defined
+[00:07:52.514] Server  ERROR    ⨯ ReferenceError: Clock is not defined
+[00:07:52.514] Server  LOG      ✓ Compiled in 90ms
+[00:07:52.622] Browser ERROR   uncaughtError: ReferenceError: Clock is not defined
+[00:07:59.658] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:07:59.701] Server  ERROR   ReferenceError: Clock is not defined
+[00:07:59.703] Server  ERROR    ⨯ ReferenceError: Clock is not defined
+[00:07:59.704] Server  ERROR    ⨯ ReferenceError: Clock is not defined
+[00:07:59.738] Server  LOG      ✓ Compiled in 68ms
+[00:07:59.792] Browser ERROR   uncaughtError: ReferenceError: Clock is not defined
+[00:08:02.849] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:08:02.883] Server  ERROR   ReferenceError: Clock is not defined
+[00:08:02.885] Server  ERROR    ⨯ ReferenceError: Clock is not defined
+[00:08:02.886] Server  ERROR    ⨯ ReferenceError: Clock is not defined
+[00:08:02.921] Server  LOG      ✓ Compiled in 98ms
+[00:08:02.978] Browser ERROR   uncaughtError: ReferenceError: Clock is not defined
+[00:08:06.370] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:08:06.401] Server  LOG      ✓ Compiled in 144ms
+[00:08:06.832] Browser WARN    Image with src "/trips/sharm-el-sheikh.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:08:06.832] Browser WARN    Image with src "/trips/giza-pyramids.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:08:06.832] Browser WARN    Image with src "/section3(2).jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:08:06.832] Browser WARN    Image with src "/section3.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:08:06.832] Browser WARN    Image with src "/trips/nile-cruise.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:08:06.832] Browser WARN    Image with src "/logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:08:06.832] Browser WARN    Image with src "/trips/karnak-temple.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:08:06.832] Browser WARN    Image with src "/trips/Abu-Simbel.jpg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:08:06.832] Browser WARN    Image with src "/trips/siwa-oasis.jpeg" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:08:27.031] Server  LOG      ✓ Compiled in 159ms
+[00:08:27.108] Browser ERROR   Each child in a list should have a unique "key" prop.%s%s See https://react.dev/link/warning-keys for more information. 
+
+Check the render method of `Home`. 
+[00:08:42.479] Server  LOG      ✓ Compiled in 24ms
+[00:08:42.583] Browser LOG     Refreshing page data due to server-side change
+[00:08:42.583] Browser ERROR   ./pages/index.js:177:9
+Parsing ecmascript source code failed
+  175 |             {Tours.slice(0, 3).map((tour) => (
+  176 |              
+> 177 |         </section>
+      |         ^
+  178 |         {/* About Kemet Section */}
+  179 |         <section className="py-10 text-center">
+  180 |           <h1 className="text-3xl font-bold">About Kemet</h1>
+
+Expression expected
+[00:08:42.583] Browser ERROR   ./pages/index.js:177:10
+Parsing ecmascript source code failed
+  175 |             {Tours.slice(0, 3).map((tour) => (
+  176 |              
+> 177 |         </section>
+      |          ^^^^^^^^^
+  178 |         {/* About Kemet Section */}
+  179 |         <section className="py-10 text-center">
+  180 |           <h1 className="text-3xl font-bold">About Kemet</h1>
+
+Unterminated regexp literal
+[00:08:53.024] Server  LOG      ✓ Compiled in 21ms
+[00:08:53.126] Browser ERROR   ./pages/index.js:207:10
+Parsing ecmascript source code failed
+  205 |               </div>
+  206 |             </div>
+> 207 |         </section>
+      |          ^^^^^^^^^
+  208 |         {/* About Kemet Section */}
+  209 |         <section className="py-10 text-center">
+  210 |           <h1 className="text-3xl font-bold">About Kemet</h1>
+
+Unterminated regexp literal
+[00:09:02.332] Browser ERROR   ./pages/index.js:207:14
+Parsing ecmascript source code failed
+  205 |               </div>
+  206 |             </div>
+> 207 |             </div
+      |              ^^^^
+  208 |         </section>
+  209 |         {/* About Kemet Section */}
+  210 |         <section className="py-10 text-center">
+
+Unterminated regexp literal
+[00:09:03.521] Browser ERROR   ./pages/index.js:207:14
+Parsing ecmascript source code failed
+  205 |               </div>
+  206 |             </div>
+> 207 |             </div>
+      |              ^^^^^
+  208 |         </section>
+  209 |         {/* About Kemet Section */}
+  210 |         <section className="py-10 text-center">
+
+Unterminated regexp literal
+[00:09:06.331] Browser ERROR   ./pages/index.js:208:10
+Parsing ecmascript source code failed
+  206 |             </div>
+  207 |             
+> 208 |         </section>
+      |          ^^^^^^^^^
+  209 |         {/* About Kemet Section */}
+  210 |         <section className="py-10 text-center">
+  211 |           <h1 className="text-3xl font-bold">About Kemet</h1>
+
+Unterminated regexp literal
+[00:09:08.780] Server  LOG      ✓ Compiled in 91ms
+[00:09:08.867] Browser LOG     Refreshing page data due to server-side change
+[00:09:08.867] Browser ERROR   %o
+
+%s
+
+%s
+ {} The above error occurred in the <Home> component. React will try to recreate this component tree from scratch using the error boundary you provided, PagesDevOverlayErrorBoundary.
+[00:09:16.549] Server  LOG      ✓ Compiled in 135ms
+[00:09:16.598] Browser ERROR   %o
+
+%s
+
+%s
+ {} The above error occurred in the <Home> component. React will try to recreate this component tree from scratch using the error boundary you provided, PagesDevOverlayErrorBoundary.
+[00:09:17.867] Server  LOG      ✓ Compiled in 55ms
+[00:09:17.928] Browser ERROR   %o
+
+%s
+
+%s
+ {} The above error occurred in the <Home> component. React will try to recreate this component tree from scratch using the error boundary you provided, PagesDevOverlayErrorBoundary.
+[00:09:21.714] Server  LOG      ✓ Compiled in 106ms
+[00:09:23.306] Server  LOG      ✓ Compiled in 64ms
+[00:09:23.369] Browser ERROR   %o
+
+%s
+
+%s
+ {} The above error occurred in the <Home> component. React will try to recreate this component tree from scratch using the error boundary you provided, PagesDevOverlayErrorBoundary.
+[00:09:26.028] Server  LOG      ✓ Compiled in 51ms
+[00:09:37.477] Server  LOG      ✓ Compiled in 97ms
+[00:09:37.478] Browser LOG     Refreshing page data due to server-side change
+[00:09:55.705] Server  LOG      ✓ Compiled in 77ms
+[00:10:11.250] Server  LOG      ✓ Compiled in 94ms
+[00:10:46.361] Server  LOG      ✓ Compiled in 99ms
+[00:10:48.830] Server  LOG      ✓ Compiled in 54ms
+[00:10:50.415] Server  LOG      ✓ Compiled in 103ms
+[00:10:54.543] Server  LOG      ✓ Compiled in 45ms
+[00:11:02.663] Server  LOG      ✓ Compiled in 105ms
+[00:11:06.218] Server  LOG      ✓ Compiled in 90ms
+[00:11:07.259] Server  LOG      ✓ Compiled in 98ms
+[00:11:15.942] Server  LOG      ✓ Compiled in 107ms
