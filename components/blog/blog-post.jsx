@@ -1,6 +1,9 @@
 import Image from "next/image"
 
+
 function BlogPost({ blog }) {
+
+
 return (
     <div key={blog.id} className="rounded-lg overflow-hidden shadow-lg">
             <div className="relative h-48 w-full">

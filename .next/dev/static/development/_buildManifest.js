@@ -2,6 +2,15 @@ self.__BUILD_MANIFEST = {
   "/": [
     "static/chunks/pages/index.js"
   ],
+  "/Blog": [
+    "static/chunks/pages/Blog.js"
+  ],
+  "/Blog/AddBlog": [
+    "static/chunks/pages/Blog/AddBlog.js"
+  ],
+  "/Discover": [
+    "static/chunks/pages/Discover.js"
+  ],
   "__rewrites": {
     "afterFiles": [],
     "beforeFiles": [],
@@ -19,6 +28,7 @@ self.__BUILD_MANIFEST = {
     "/_error",
     "/api/auth/signup",
     "/api/auth/[...nextauth]",
+    "/api/blog",
     "/api/contactus",
     "/api/newsletter",
     "/api/user/change-password",

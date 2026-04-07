@@ -11,7 +11,7 @@ export default function BlogPage() {
   const router = useRouter();
 
   const handleAddBlog =() =>{
-    router.push('/Blog/AddBlog');
+    router.push("/Blog/AddBlog");
   }
   return (
     <>

@@ -1,11 +1,13 @@
 import Image from "next/image";
 import Head from "next/head";
-import { getServerSession } from 'next-auth/next';
-import { authOptions } from '../api/auth/[...nextauth]';
+import { getServerSession } from "next-auth/next";
+import { authOptions } from "../api/auth/[...nextauth]";
 
 import AddPostBlog from "@/components/blog/Post-blog";
 
+
 function AddBlog() {
+
   return (
     <>
       <Head>
@@ -58,7 +60,15 @@ export async function getServerSideProps(context) {
   }
 
   return {
-    props: { session },
+    props: {
+      session: {
+        ...session,
+        user: {
+          email: session.user.email,
+          name: session.user.name || null,
+        },
+      },
+    },
   };
 }
 
